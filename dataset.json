@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Full restaurant census covering Medford, Oregon. Filtered by the Restaurants category group, providing business profiles, review counts, contact information, and competitive benchmarks. Refreshed weekly.",
+  "config_name": "All Restaurants in Medford, Oregon, US",
+  "export_job_id": "406032bf-6146-4f64-8fdb-a5cd636e9a4f",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 493551,
+  "location_name": "Medford",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-medford-oregon-us-sample-493551",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/493551/beamstation_493551_restaurants-us-or_SAMPLE_DIST.csv",
+  "sample_pct": 9.06,
+  "sample_records": 25,
+  "sample_sha256": "cdc3e022554fbf5b50975862e3884fff4848fbeaae23e37a5c61c448977f6cae",
+  "sample_size_bytes": 115159,
+  "total_records": 276,
+  "updated_at": "2026-03-31T15:33:08.834101+00:00"
+}
