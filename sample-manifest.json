@@ -1,12 +1,12 @@
 {
-  "export_job_id": "406032bf-6146-4f64-8fdb-a5cd636e9a4f",
+  "export_job_id": "9aa0dfa7-0d37-4e32-a338-bb764665dfcf",
   "id_short": 493551,
-  "published_at": "2026-04-13T19:05:10Z",
+  "published_at": "2026-04-17T07:47:54Z",
   "repo_name": "all-restaurants-in-medford-oregon-us-sample-493551",
   "sample_asset_name": "beamstation_493551_restaurants-us-or_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/493551/beamstation_493551_restaurants-us-or_SAMPLE_DIST.csv",
-  "sample_records": 25,
-  "sample_sha256": "cdc3e022554fbf5b50975862e3884fff4848fbeaae23e37a5c61c448977f6cae",
-  "sample_size_bytes": 115159,
-  "total_records": 276
+  "sample_records": 32,
+  "sample_sha256": "4976ba29026770cda93622fc83f1e7a9bc5bc39eeaab0c47c96a378425dd5f7c",
+  "sample_size_bytes": 122930,
+  "total_records": 324
 }
