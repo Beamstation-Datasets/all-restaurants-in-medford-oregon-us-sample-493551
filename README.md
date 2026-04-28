@@ -1,6 +1,6 @@
 # All Restaurants in Medford, Oregon, US
 
-> Free BeamStation sample export with 29 rows and masked direct-contact fields.
+> Free BeamStation sample export with 35 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `493551` |
 | Location | Medford |
 | Category | Restaurants |
-| Full dataset size | 291 records |
-| Free sample size | 29 records (9.97%) |
-| Last export | 2026-04-21T17:42:25.800324+00:00 |
+| Full dataset size | 352 records |
+| Free sample size | 35 records (9.94%) |
+| Last export | 2026-04-28T18:55:25.846377+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-medford-oregon-us-sample-493551/releases/download/sample-latest/beamstation_493551_restaurants-us-or_SAMPLE_DIST.csv) |
 
 ## What is in this sample
